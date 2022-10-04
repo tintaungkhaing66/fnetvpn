@@ -50,6 +50,7 @@
 </ul>
 </div>
 </div></div>
+</br>
 <div class='sora-cv-author-details wow slideInUp row'>
 <div style='clear: both;'></div>
 <div class='card-action' id='about-btn'>
