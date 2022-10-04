@@ -58,7 +58,7 @@
 <div class='card-action' id='about-btn'>
 
 <div class='about-btn'>
-<a class='btn waves-effect' href='https://fnetvpn.github.io/project1/assets/app/FNETVPN_1.9.apk'>Direct Download</a>
+<a class='btn waves-effect' href='https://fnet-vpn.herokuapp.com/download.apk'>Direct Download</a>
 </div>
 </div>
 </div>
