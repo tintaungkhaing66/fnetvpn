@@ -58,7 +58,7 @@
 <div class='card-action' id='about-btn'>
 
 <div class='about-btn'>
-<a class='btn waves-effect' href='https://fnet-vpn.herokuapp.com/download.apk'>Direct Download</a>
+<a class='btn waves-effect' href='https://fnetvpn.herokuapp.com/download.apk'>Direct Download</a>
 </div>
 </div>
 </div>
