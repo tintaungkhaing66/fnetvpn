@@ -48,7 +48,7 @@
 </li>
 <li class='clearfix'>
 <strong class='list-title'><span class='list-button'>Developer</span></strong>
-<span class='cont'><i class='fa fa-code'></i><a href='https://www.facebook.com/iamHtetz' style='color: rgb( 157,160,167)'><font color='#9da0a7'>Tint Aung Khaing</font></a></span>
+<span class='cont'><i class='fa fa-code'></i><a href='https://www.facebook.com/taknds65' style='color: rgb( 157,160,167)'><font color='#9da0a7'>Tint Aung Khaing</font></a></span>
 </li>
 </ul>
 </div>
