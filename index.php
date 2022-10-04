@@ -4,11 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>FNET VPN | TH</title>
-  
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <link rel="stylesheet" href="css/style.css">
@@ -26,10 +22,11 @@
 <h2 class='profile-title'><span></span>FNET VPN</h2>
 <h3 class='profile-position'>Thailand &#9989;</h3>
 </div>
-
+</center>
 <div class='sora-author-box-text '>
 <div class='sora-author-box-text-details'>
 <ul class='profile-list'>
+<br>
 <li class='clearfix'>
 <strong class='list-title'><span class='list-button'>Size</span></strong>
 <span class='cont'><i class='fa fa-file'></i>6.42 MB</span>
