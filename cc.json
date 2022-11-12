@@ -1,0 +1,35 @@
+{
+//Version for update, if there is an update, the number must be changed to be bigger than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/tintaungkhaing66/fnetvpn/raw/main/ovpn/Netlify.zip",
+"Changelog":"
+
+Chopa VPN សូមស្វាគមន៍សម្រាប់ការចូលមកកាន់ APP
+☑️ Work in progress 20/06/2021
+
+=====================================
+🇸🇬 មានទាំងអស់ 35 SERVER 🇸🇬
+🇸🇬 Server SG
+🇨🇷 Server TH
+🇭🇰 Server HK
+🇯🇵 Server JP
+🇰🇷 Server KR
+🇺🇸 US Server
+🇻🇳 Server VN
+🌐 Server NordVPN
+🛑ប្រើបានសំរាប់សយីមស្មាតតែប៉ុណ្ណោះ🛑
+🙏 Good health and good health 🙏
+I work in the country I work in the country
+server
+",
+ 
+ 
+//
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
