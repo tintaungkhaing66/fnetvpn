@@ -1,6 +1,6 @@
 {
 //Version for update, if there is an update, the number must be changed to be bigger than before
-"Version":"1.1",
+"Version":"1.5",
 //link for server update
 "Url":"https://github.com/tintaungkhaing66/fnetvpn/raw/main/ovpn/Netlify.zip",
 "Changelog":"
