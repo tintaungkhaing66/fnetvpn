@@ -17,6 +17,10 @@
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
       },
 {
+       "name": "Dtac-NoPro-FREE3",
+         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/sg1.ovpn"
+      },
+{
        "name": "DTAC-APN-VIP",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
@@ -46,6 +50,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"File version - 2 ",
-   "version": 2
+"title":"File version - 3 ",
+   "version": 3
 }
