@@ -1,10 +1,10 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
-"Url":"https://fnetvpn-home.duckdns.org/ovpn/Netlify.zip" ,
+"Url":"https://fnetvpn-version.duckdns.org/Netlify.zip" ,
 "Changelog":"
-Latest update 05/12/2022
+Latest update 13/12/2022
 TH-ReadyIDC
 SG-CloudPLAY
 DTAC No Pro
