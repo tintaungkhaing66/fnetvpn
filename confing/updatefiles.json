@@ -1,23 +1,23 @@
 {
    "files": [   
 {
-         "name": "Dtac-Lazada-VPS-VIP",
-         "url": "https://tak65.000webhostapp.com/lazada-vip1.ovpn"
+         "name": "DTAC-NoPro-VPS-VIP1",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
 },
 {
-       "name": "Dtac-NoPro-VPS-VIP",
+       "name": "DTAC-NoPro-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
 {
-       "name": "Dtac-NoPro-FREE1",
+       "name": "DTAC-NoPro-FREE1",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
       },
 {
-       "name": "Dtac-NoPro-FREE2",
+       "name": "DTAC-NoPro-FREE2",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
       },
 {
-       "name": "Dtac-NoPro-FREE3",
+       "name": "DTAC-NoPro-FREE3",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/sg1.ovpn"
       },
 {
@@ -45,11 +45,10 @@
 • TH-ReadyIDC
 • SG-CloudPLAY
 • DTAC-APN-Multimedia
-• DTAC-Lazada
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"File version - 3 ",
-   "version": 3
+"title":"Config version - 4 ",
+   "version": 4
 }
