@@ -36,12 +36,12 @@
 
 {
        "name": "TH-CLOUDPLAY-FREE",
-         "url": "https://github.com/tintaungkhaing66/fnetvpn/blob/main/ovpn/free66.ovpn"
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
       },
 
 {
        "name": "SG-CLOUDPLAY-FREE",
-         "url": "https://github.com/tintaungkhaing66/fnetvpn/blob/main/ovpn/free66.ovpn"
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
       },
 
 {
@@ -59,6 +59,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 5 ",
-   "version": 5
+"title":"Config version - 6 ",
+   "version": 6
 }
