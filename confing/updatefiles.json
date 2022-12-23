@@ -43,7 +43,10 @@
        "name": "SG-CLOUDPLAY-FREE",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
       },
-
+{
+       "name": "JP-CLOUDPLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/jp.ovpn"
+      },
 {
        "name": "True-NoPro-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
@@ -59,6 +62,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 6 ",
-   "version": 6
+"title":"Config version - 7 ",
+   "version": 7
 }
