@@ -5,6 +5,10 @@
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
 },
 {
+         "name": "DTAC-NoPro-VPS-VIP3",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
+},
+{
        "name": "DTAC-NoPro-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
@@ -55,13 +59,13 @@
 "message":"🔰 Update function to page load
 
 • VIP | 1Month - 45Baht
-• TH-ReadyIDC
 • SG-CloudPLAY
+• JP-CloudPLAY
 • DTAC-APN-Multimedia
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 7 ",
-   "version": 7
+"title":"Config version - 8 ",
+   "version": 8
 }
