@@ -1,0 +1,71 @@
+{
+   "files": [   
+{
+         "name": "TH-DTAC-VPS-VIP1",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
+},
+{
+         "name": "TH-DTAC-VPS-VIP2",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
+},
+{
+       "name": "TH-DTAC-VPS-VIP3",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
+      },
+{
+       "name": "SG-DTAC-FREE1",
+         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
+      },
+{
+       "name": "SG-DTAC-FREE2",
+         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
+      },
+{
+       "name": "SG-DTAC-FREE3",
+         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/sg1.ovpn"
+      },
+{
+       "name": "TH-DTAC-APN-VIP",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
+      },
+
+{
+       "name": "SG-DTAC-APN-FREE1",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/apn-udp.free.ovpn"
+      },
+{
+       "name": "SG-DTAC-APN-FREE2",
+         "url": "https://raw.githubusercontent.com/nds999/nds999/main/apn-udp.free.ovpn"
+      },
+
+{
+       "name": "TH-DTAC-CLOUDPLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
+      },
+
+{
+       "name": "SG-DTAC-CLOUDPLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
+      },
+{
+       "name": "JP-DTAC-CLOUDPLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/jp.ovpn"
+      },
+{
+       "name": "TH-TRUE-VPS-VIP",
+         "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
+      }
+ ],
+"message":"🔰 Update function to page load
+
+• VIP | 1Month - 45Baht
+• SG-CloudPLAY
+• JP-CloudPLAY
+• DTAC-APN-Multimedia
+• DTAC-NoPro
+• TRUE-NoPro
+• Quick connection⚡
+• Thank you for using😊",
+"title":"Config version - 1 ",
+   "version": 1
+}
