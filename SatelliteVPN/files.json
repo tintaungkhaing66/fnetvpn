@@ -4,14 +4,13 @@
          "name": "TH-DTAC-VPS-VIP1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
 },
+
 {
-         "name": "TH-DTAC-VPS-VIP2",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
-},
-{
-       "name": "TH-DTAC-VPS-VIP3",
+       "name": "TH-DTAC-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
+      
+      
 {
        "name": "SG-DTAC-FREE1",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
@@ -24,32 +23,15 @@
        "name": "SG-DTAC-FREE3",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/sg1.ovpn"
       },
-{
-       "name": "TH-DTAC-APN-VIP",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
-      },
-
-{
-       "name": "SG-DTAC-APN-FREE1",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/apn-udp.free.ovpn"
-      },
-{
-       "name": "SG-DTAC-APN-FREE2",
-         "url": "https://raw.githubusercontent.com/nds999/nds999/main/apn-udp.free.ovpn"
-      },
-
-{
-       "name": "TH-DTAC-CLOUDPLAY-FREE",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
-      },
-
-{
-       "name": "SG-DTAC-CLOUDPLAY-FREE2",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
-      },
+      
 {
        "name": "SG-DTAC-CLOUDPLAY-FREE1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/jp.ovpn"
+      },
+      
+{
+       "name": "TH-DTAC-CLOUDPLAY-FREE2",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
       },
 {
        "name": "TH-TRUE-VPS-VIP",
