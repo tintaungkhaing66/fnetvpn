@@ -44,11 +44,11 @@
       },
 
 {
-       "name": "SG-CLOUDPLAY-FREE",
+       "name": "SG-CLOUDPLAY-FREE1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/free66.ovpn"
       },
 {
-       "name": "JP-CLOUDPLAY-FREE",
+       "name": "SG-CLOUDPLAY-FREE2",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/jp.ovpn"
       },
 {
@@ -66,6 +66,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 8 ",
-   "version": 8
+"title":"Config version - 9 ",
+   "version": 9
 }
