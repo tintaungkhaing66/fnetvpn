@@ -1,5 +1,11 @@
 {
    "files": [   
+
+{
+         "name": "AIS-CLOUDPLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01"
+},
+
 {
          "name": "TH-DTAC-VPS-VIP1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
@@ -35,10 +41,11 @@
 • VIP | 1Month - 45Baht
 • SG-Free Servers
 • TH-VIP Servers
+• AIS CloudPlay
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 4 ",
-   "version": 4
+"title":"Config version - 5 ",
+   "version": 5
 }
