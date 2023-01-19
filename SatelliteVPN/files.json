@@ -1,10 +1,6 @@
 {
    "files": [   
 
-{
-         "name": "AIS-CLOUDPLAY-FREE",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01"
-},
 
 {
          "name": "TH-DTAC-VPS-VIP1",
@@ -18,20 +14,12 @@
       
       
 {
-       "name": "SG-DTAC-FREE1",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
-      },
-{
-       "name": "SG-DTAC-FREE2",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
-      },
-{
-       "name": "SG-DTAC-FREE3",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/sg1.ovpn"
+       "name": "TH-DTAC-FREE2",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps2.ovpn"
       },
      
 {
-       "name": "TH-DTAC-FREE",
+       "name": "TH-DTAC-FREE1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps1.ovpn"
       },
 {
@@ -42,13 +30,11 @@
 "message":"🔰 Update function to page load
 
 • VIP | 1Month - 45Baht
-• SG-Free Servers
-• TH-VIP Servers
-• AIS CloudPlay
+• TH-VIP VPS Server
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 6 ",
-   "version": 6
+"title":"Config version - 7 ",
+   "version": 7
 }
