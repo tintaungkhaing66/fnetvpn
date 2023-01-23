@@ -3,8 +3,8 @@
 
 
 {
-         "name": "TH-AIS-Play-FREE",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01"
+         "name": "TH-AIS-PLAY-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01.ovpn"
 },
 
 {
@@ -36,10 +36,11 @@
 
 • VIP | 1Month - 45Baht
 • TH-VIP VPS Server
+• AIS-Play
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 7 ",
-   "version": 7
+"title":"Config version - 8 ",
+   "version": 8
 }
