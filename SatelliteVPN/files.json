@@ -16,7 +16,15 @@
        "name": "TH-DTAC-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
-      
+
+{
+       "name": "TH-DTAC-VPS-VIP3",
+         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/TH-ReadyIDC-VIP02.ovpn"
+      },
+ {
+       "name": "TH-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps3.ovpn"
+      },
       
 {
        "name": "TH-DTAC-FREE2",
@@ -24,7 +32,7 @@
       },
      
 {
-       "name": "TH-DTAC-FREE1",
+       "name": "TH-DTAC-FREE3",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps1.ovpn"
       },
 {
@@ -41,6 +49,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 9 ",
-   "version": 9
+"title":"Config version - 10 ",
+   "version": 10
 }
