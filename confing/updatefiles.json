@@ -21,10 +21,13 @@
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/TH-ReadyIDC-VIP02.ovpn"
       },
  {
-       "name": "SG-DTAC-FREE1",
+       "name": "SG-DTAC-FREE",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg.ovpn"
       },
-      
+{
+       "name": "TH-DTAC-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps3.ovpn"
+      },      
 {
        "name": "TH-TRUE-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
@@ -39,6 +42,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 12 ",
-   "version": 12
+"title":"Config version - 13 ",
+   "version": 13
 }
