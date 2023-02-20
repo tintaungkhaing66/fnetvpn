@@ -1,7 +1,6 @@
 {
    "files": [   
 
-
 {
          "name": "TH-AIS-PLAY-FREE",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01.ovpn"
@@ -21,19 +20,17 @@
        "name": "TH-DTAC-VPS-VIP3",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/TH-ReadyIDC-VIP02.ovpn"
       },
+{
+       "name": "SG-DTAC-FREE3",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg9.ovpn"
+      },
+{
+       "name": "SG-DTAC-FREE2",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg10.ovpn"
+      },
  {
-       "name": "TH-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps3.ovpn"
-      },
-      
-{
-       "name": "TH-DTAC-FREE2",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps2.ovpn"
-      },
-     
-{
-       "name": "TH-DTAC-FREE3",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/vps1.ovpn"
+       "name": "SG-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg.ovpn"
       },
 {
        "name": "TH-TRUE-VPS-VIP",
@@ -44,11 +41,12 @@
 
 • VIP | 1Month - 45Baht
 • TH-VIP VPS Server
+• SG Free Server
 • AIS-Play
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 10 ",
-   "version": 10
+"title":"Config version - 11 ",
+   "version": 11
 }
