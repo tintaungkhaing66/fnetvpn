@@ -1,26 +1,21 @@
 {
    "files": [   
-
 {
          "name": "TH-AIS-PLAY-FREE",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01.ovpn"
 },
-
 {
          "name": "TH-DTAC-VPS-VIP1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
 },
-
 {
        "name": "TH-DTAC-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
       },
-
 {
        "name": "TH-DTAC-VPS-VIP3",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/TH-ReadyIDC-VIP02.ovpn"
       },
-
 {
        "name": "SG-DTAC-FREE3",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto2.ovpn"
