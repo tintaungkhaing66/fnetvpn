@@ -1,42 +1,30 @@
 {
    "files": [   
-
 {
          "name": "TH-AIS-PLAY-FREE",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/satellitevpn/main/AIS-CLOUDPLAY-FREE01.ovpn"
 },
-
 {
-       "name": "TH-DTAC-VPS-VIP1",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
+        "name": "TH-DTAC-VPS-VIP1",
+        "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/vip1.ovpn"
 },
-
 {
-       "name": "TH-DTAC-VPS-VIP2",
+        "name": "TH-DTAC-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/nds999/nds999/main/dtac-nopro.vip.ovpn"
-      },
-
-{
-       "name": "TH-DTAC-VPS-VIP3",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/TH-ReadyIDC-VIP02.ovpn"
       },
 {
        "name": "SG-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/autounlimited.ovpn"
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto1.ovpn"
       },
 {
        "name": "SG-DTAC-FREE2",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg.ovpn"
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto2.ovpn"
       },
+
 {
        "name": "SG-DTAC-FREE3",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg9.ovpn"
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto4.ovpn"
       },
-{
-       "name": "SG-DTAC-FREE4",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/sg10.ovpn"
-      },
- 
 {
        "name": "TH-TRUE-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
@@ -52,6 +40,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 17 ",
-   "version": 17
+"title":"Config version - 18 ",
+   "version": 18
 }
