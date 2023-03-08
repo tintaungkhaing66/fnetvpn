@@ -20,14 +20,7 @@
        "name": "SG-DTAC-FREE2",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto2.ovpn"
       },
- {
-       "name": "SG-DTAC-FREE3",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto3.ovpn"
-      },
-{
-       "name": "SG-DTAC-FREE4",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto4.ovpn"
-      },
+ 
 {
        "name": "TH-TRUE-VPS-VIP",
          "url": "https://tak65.000webhostapp.com/true-free1.ovpn"
@@ -43,6 +36,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 14 ",
-   "version": 14
+"title":"Config version - 15 ",
+   "version": 15
 }
