@@ -1,18 +1,22 @@
-{"Version":"1.5","Url":"https://github.com/tintaungkhaing66/fnetvpn/raw/main/OVPN.zip","Text":"📢ဖိုင္အပ္ဒိတ္တင္ရက္ 19/03/2023
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.4",
+//link for server update
+"title":"Config version - 1.4 ",
+"Url":"https://fnetvpn-version.duckdns.org/OVPN.zip" ,
+"Changelog":"
+Latest update March/22/2023
+
+TH-VIP
+SG-FREE
+DTAC No Pro
+VIP | 1Month - 45Baht
+Update function to page load
+",
  
-🌟VIPတစ္လမွ 50ဘတ္ပါ
-Game Facebook Youtube Tiktok
-အကုန္ရပါတယ္ လားစမ္းၿပီးအဆင္ေျပမွဝယ္ပါ
-
-🌐VIPမဝယ္ခ်င္လဲဖရီးနဲ႕သုံးလို႔ရပါတယ္
-ဖရီးကအခ်ိန္တိုးၿပီးသုံးရမွာျဖစ္ပါတယ္
-အခ်ိန္တိုးတာADD TIME ခလုတ္ႏွိပ္ပါ
-ေၾကာ္ညာၿပီးေအာင္ၾကည့္ပါ အခ်ိန္24နာရီရမည္
-
-📌ဖရီးပဲျဖစ္ျဖစ္ VIPပဲျဖစ္ျဖစ္ 
-တစ္ခုခုအဆင္မေျပတာရွိရင္
-Adminကိုအေၾကာင္းၾကားလို႔ရပါတယ္
-KOKO VPN NET လာေရာက္အားေပးတာေက်းဇူးပါ"}
+ 
+ 
+ 
  
  
 // don't mess with the bottom
