@@ -12,6 +12,11 @@
         "name": "TH-DTAC-VPS-VIP2",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/v2.ovpn"
       },
+
+{
+        "name": "TH-DTAC-VPS-VIP3",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/bangmod.ovpn"
+      },
 {
        "name": "SG-DTAC-FREE1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto1.ovpn"
@@ -30,12 +35,13 @@
 
 • VIP | 1Month - 45Baht
 • TH-VIP VPS Server
+• Added New Server
 • SG Free Server
 • AIS-Play
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 16 ",
-   "version": 16
+"title":"Config version - 17 ",
+   "version": 17
 }
