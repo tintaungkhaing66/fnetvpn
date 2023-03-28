@@ -14,8 +14,8 @@
       },
 
 {
-        "name": "TH-DTAC-VPS-VIP3",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/bangmod.ovpn"
+        "name": "TH-DTAC-Bangmod-VPS-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/bangmod-socks.ovpn"
       },
 {
        "name": "SG-DTAC-FREE1",
@@ -34,8 +34,9 @@
 "message":"🔰 Update function to page load
 
 • VIP | 1Month - 45Baht
+• TH-ReadyIDC-Cloud
+• TH-Bangmod.Cloud
 • TH-VIP VPS Server
-• Added New Server
 • SG Free Server
 • AIS-Play
 • DTAC-NoPro
