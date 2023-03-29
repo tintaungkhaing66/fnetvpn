@@ -22,10 +22,6 @@
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/bangmod-socks.ovpn"
       },
 {
-       "name": "SG-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto1.ovpn"
-      },
-{
        "name": "SG-DTAC-FREE2",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/ovpn/auto2.ovpn"
       },
@@ -47,6 +43,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 18 ",
-   "version": 18
+"title":"Config version - 19 ",
+   "version": 19
 }
