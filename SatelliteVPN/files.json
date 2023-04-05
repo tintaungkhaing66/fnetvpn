@@ -14,8 +14,8 @@
       },
 
 {
-        "name": "US-DTAC-ThaiEasyVPS-FREE",
-         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/VPS-VIP/ThaiEasyVPS-th01.ovpn"
+        "name": "TH-DTAC-Openlandscape-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/VPS-VIP/th1-openlandscape.ovpn"
       },
 {
         "name": "TH-DTAC-Bangmod-FREE",
@@ -32,13 +32,13 @@
 • VIP | 1Month - 45Baht
 • TH-ReadyIDC-Cloud
 • TH-Bangmod-Cloud
-• US-ThaiEasyVPS-Cloud 
+• TH-Openlandscape-Cloud 
 • TH-VIP VPS Server
 • AIS-Play
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 20 ",
-   "version": 20
+"title":"Config version - 21 ",
+   "version": 21
 }
