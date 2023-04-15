@@ -14,11 +14,11 @@
       },
 
 {
-        "name": "TH-DTAC-FREE1",
+        "name": "SG-DTAC-FREE1",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/VPS-VIP/th1-openlandscape.ovpn"
       },
 {
-        "name": "TH-DTAC-FREE2",
+        "name": "SG-DTAC-FREE2",
          "url": "https://raw.githubusercontent.com/tintaungkhaing66/fnetvpn/main/SatelliteVPN/bangmod-socks.ovpn"
       },
  
@@ -29,16 +29,13 @@
  ],
 "message":"🔰 Update function to page load
 
-• VIP | 1Month - 45Baht
-• TH-ReadyIDC-Cloud
-• TH-Bangmod-Cloud
-• TH-Openlandscape-Cloud 
+• VIP | 1Month - 50Baht 
 • TH-VIP VPS Server
 • AIS-Play
 • DTAC-NoPro
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 22 ",
-   "version": 22
+"title":"Config version - 23 ",
+   "version": 23
 }
